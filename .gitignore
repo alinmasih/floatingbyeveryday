@@ -1,0 +1,6 @@
+.env.local
+.env
+data/raw/
+downloaded-media/
+node_modules/
+*.log
