@@ -4,3 +4,4 @@ data/raw/
 downloaded-media/
 node_modules/
 *.log
+wp-content/wpvividbackups/
